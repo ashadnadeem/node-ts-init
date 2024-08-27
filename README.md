@@ -1,5 +1,5 @@
-# Sadiq Corporate Backend
-A Scallable Backend on Node(Typescript) for Corporate Website
+# Node(Typescript) Backend
+A Scallable Backend on Node(Typescript)
 
 ## Project Structure
 
